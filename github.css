@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://www.freecodecamp.org/news/content/images/2022/07/git-github.png);
+    
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+   }
+   #white {
+    color: dark;
+    size:3px;
+    text-decoration:underline black;
+  }
